@@ -14,6 +14,6 @@ Este repositório contém:
 
 **LCOM final grade :**
 
-| Componente | Lab2 | Lab3 | Lab4 | Lab5 | Projeto |
+| | Lab2 | Lab3 | Lab4 | Lab5 | Projeto |
 | --- | --- | --- | --- | --- | --- |
 | **Nota** | | | | | |
