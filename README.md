@@ -12,7 +12,7 @@ Este repositório contém:
 
 ## Grades
 
-**LCOM final grade : 19**
+**LCOM final grade : 20**
 
 | | Lab2 | Lab3 | Lab4 | Lab5 | Projeto |
 | --- | --- | --- | --- | --- | --- |
